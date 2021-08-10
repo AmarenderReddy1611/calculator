@@ -1,0 +1,28 @@
+package Myjavaprograms;
+
+import java.util.Scanner;
+
+public class Practice9 {
+
+	public static void main(String[] args) {
+	
+		Scanner calculator= new Scanner(System.in);
+		
+	System.out.println("Enter the two numbers:");
+	int x=calculator.nextInt();
+	int y=calculator.nextInt();
+	System.out.println("addition:"+ (x+y));
+	System.out.println("difference:"+ (x-y));
+	System.out.println("multiplication:"+ (x*y));
+	System.out.println("division:"+ (x/y));
+	
+	
+	
+		
+		
+		
+				
+			}
+
+	}
+
